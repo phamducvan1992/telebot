@@ -1,6 +1,6 @@
 const axios = require("axios");
 
-const TOKEN = "8653308179:AAHuMZxOLI7NCGgKM4OgWAlAKMZodk3VYoA";
+const TOKEN = "";
 const TELEGRAM_API = `https://api.telegram.org/bot${TOKEN}`;
 
 let offset = 0;
